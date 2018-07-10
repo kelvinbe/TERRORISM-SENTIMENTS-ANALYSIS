@@ -1,0 +1,11 @@
+.panel {
+    width :45% ;
+    display : inline-block;
+
+}
+
+#keywords{
+    width: 100%;
+    display : block;
+
+}
